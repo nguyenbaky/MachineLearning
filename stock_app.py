@@ -311,4 +311,8 @@ def update_graph(selected_dropdown):
     return figure
 
 if __name__=='__main__':
+<<<<<<< HEAD
 	app.run_server(debug=True)
+=======
+	app.run_server(debug=True)
+>>>>>>> 48a8e6071a308b42d3891fffe72a46b014db2480
